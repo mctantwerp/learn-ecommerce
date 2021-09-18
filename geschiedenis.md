@@ -1,6 +1,6 @@
 # Geschiedenis
 
-Over het algemeen wordt verondersteld dat e-commerce begon bij Amazon. Dat bedrijf begon in 1995 met een online boekenwinkel, en is vandaag nog steeds één van de grootste e-commerce platformen ter wereld. Maar, Amazon, nog Cadabra Inc genaamd in 1994, was niet de eerste.
+Over het algemeen wordt verondersteld dat e-commerce begon bij Amazon. Dat bedrijf begon in 1995 \(opgericht in 1994 maar werd eigenlijk pas echt online actief begin 1995\) met een online boekenwinkel, en is vandaag nog steeds één van de grootste e-commerce platformen ter wereld. Maar, Amazon, nog Cadabra Inc genaamd in 1994, was niet de eerste.
 
 De eerste keer dat een persoon een product kocht van een online platform, dateert al uit 1994. Een persoon verkocht toen een CD van Sting via een online platform Netmarket aan een vriend. 
 
