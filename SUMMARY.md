@@ -3,6 +3,8 @@
 * [Introductie](README.md)
 * [Geschiedenis](geschiedenis.md)
 * [E-commerce vandaag](e-commerce-vandaag.md)
+* [Hoe begin ik hieraan?](hoe-begin-ik-hieraan.md)
+* [Platformen](platformen.md)
 * [Payment providers](payment-providers.md)
 * [Shipping](shipping.md)
 * [Affiliate](affiliate.md)
@@ -10,8 +12,4 @@
 ## Bronnen
 
 * [Bronvermelding](bronnen/bronvermelding.md)
-
----
-
-* [Starten met e-commerce](starten-met-e-commerce.md)
 
