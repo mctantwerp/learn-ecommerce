@@ -28,5 +28,9 @@ Van een e-commerce platform wordt tegenwoordig veel verwacht. Denk aan next day 
 
 Probeer een goed back-up plan te voorzien. Het starten van een webshop kan de eerste weken / maanden heel goed gaan, omdat je goed reclame maakt en er veel vrienden en famillie je wel willen helpen door eens iets te kopen. Maar al snel moet je op zoek gaan naar nieuwe klanten, en als dat niet meteen goed lukt, kan de verkoop snel dalen, terwijl de kosten blijven. Maak dus voor jezelf enkele drempelwaarden waarop je bepaalde acties onderneemt. De belangrijkste drempel is hoever je wil zakken in omzet, of hoever je in schulden wil gaan, voor je de zaak stopzet. Niet leuk om over na te denken, maar wel één van de belangrijkste plannen van je zaak.
 
-## Alleen of met partners
+### Alleen of met partners
+
+### Marktpositie, marktaandeel
+
+## Verhaal
 
