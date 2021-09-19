@@ -8,7 +8,7 @@ Als we bijvoorbeeld kijken naar Steve Jobs, die toch over het algemeen gezien wo
 
 ## Plannen plannen plannen
 
-Het opzetten van een e-commerce platform is tegenwoordig makkelijk. Met enkele klikken en een credit card heb je een online shop. Maar, als je een serieus bedrijf wil starten, begin je met het opstellen van een business plan en een financiëel plan. Dit verplicht je na te denken over bepaalde aspecten zoals opslag van goederen, levertermijnen, service na verkoop, aankoop en verkoopprijzen, marges en tijds investeringen. 
+Het opzetten van een e-commerce platform is tegenwoordig makkelijk. Met enkele klikken en een credit card heb je een online shop. Maar, als je een serieus bedrijf wil starten, begin je met het opstellen van een business plan en een financiëel plan. Dit verplicht je na te denken over bepaalde aspecten zoals opslag van goederen, levertermijnen, service na verkoop, aankoop en verkoopprijzen, marges en tijds investeringen. Bepaal de doelgroep voor je webshop, en doe marktonderzoek naar je producten. Leer uit die resulstaten en pas aan. Meten is weten.
 
 ### Tijd
 
@@ -30,7 +30,13 @@ Probeer een goed back-up plan te voorzien. Het starten van een webshop kan de ee
 
 ### Alleen of met partners
 
-### Marktpositie, marktaandeel
+Als je met vrienden of partners werkt, probeer dan vanaf de start goede afspraken te maken. Investeren je partners evenveel tijd/geld in de onderneming? Wat zijn de verantwoordelijkheden en rollen van de verschillende partners? Krijgt iedereen evenveel aandeel en beslissingsrecht, of is er een duidelijke verdeling? Leg vast wat er moet gebeuren als het misloopt, maar ook wat er moet gebeuren als je onverwacht grote successen boekt. Zo behoed je jezelf van frustraties, ook wanneer het goed gaat.
 
 ## Verhaal
+
+Naast een goede voorbereiding is een goed verhaal ook als maar belangrijker. Hoe ben je op dit idee gekomen, waarom doe je dit, en waar wil je naartoe in de toekomst?
+
+## Great success
+
+Doe je research, en blijf kritisch kijken naar cijfers en partners. Praat met mensen, ook mensen die het geen goed idee vinden. Denk er even over na, leg het even neer en kom er een tijdje later eens op terug. Is het nog altijd een goed idee, en klopt het plaatje? Veel succes!
 
