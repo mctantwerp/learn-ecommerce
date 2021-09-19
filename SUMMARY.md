@@ -6,7 +6,10 @@
 
 ## Vooraf
 
-* [Untitled](vooraf/untitled.md)
+* [Bezint eer ge begint](vooraf/untitled.md)
+* [Voorbereiding](vooraf/voorbereiding.md)
+* [Marketing](vooraf/marketing.md)
+* [Great success](vooraf/great-success.md)
 
 ---
 
