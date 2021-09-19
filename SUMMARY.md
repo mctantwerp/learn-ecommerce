@@ -9,8 +9,8 @@
 * [Shipping](shipping.md)
 * [Affiliate](affiliate.md)
 
-## Bronnen
+## Appendix
 
-* [Grow](bronnen/grow.md)
-* [Bronvermelding](bronnen/bronvermelding.md)
+* [Grow](appendix/grow.md)
+* [Bronvermelding](appendix/bronvermelding.md)
 
