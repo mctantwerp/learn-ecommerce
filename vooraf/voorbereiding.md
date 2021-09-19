@@ -1,8 +1,6 @@
 # Voorbereiding
 
-## Plannen plannen plannen
-
-Het opzetten van een e-commerce platform is tegenwoordig makkelijk. Met enkele klikken en een credit card heb je een online shop. Maar, als je een serieus bedrijf wil starten, begin je met het opstellen van een business plan en een financiëel plan. Dit verplicht je na te denken over bepaalde aspecten zoals opslag van goederen, levertermijnen, service na verkoop, aankoop en verkoopprijzen, marges en tijds investeringen. Bepaal de doelgroep voor je webshop, en doe marktonderzoek naar je producten. Leer uit die resulstaten en pas aan. Meten is weten.
+Het opzetten van een e-commerce platform is tegenwoordig makkelijk. Met enkele klikken en een credit card heb je een online shop. Maar, als je een serieus bedrijf wil starten, begin je met het opstellen van een business plan en een financiëel plan. Dit verplicht je na te denken over bepaalde aspecten zoals opslag van goederen, levertermijnen, service na verkoop, aankoop en verkoopprijzen, marges en tijds investeringen. Bepaal de doelgroep voor je webshop, en doe marktonderzoek naar je producten. Leer uit die resulstaten en pas aan. Meten is weten!
 
 ### Tijd
 

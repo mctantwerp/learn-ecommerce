@@ -76,6 +76,8 @@ Naast de overduidelijke e-commerce platformen zijn ook enkele grote spelers, die
 
 {% embed url="https://business.instagram.com/shopping" %}
 
+{% embed url="https://www.binance.com/en" %}
+
 ## Kleinere Belgische success stories
 
 {% embed url="https://www.babygoodies.shop/" %}
