@@ -6,11 +6,5 @@ E-commerce in het kort, is het verhandelen van goederen of diensten via het inte
 
 {% embed url="https://www.shopify.com/encyclopedia/what-is-ecommerce" %}
 
-De online cursus van de voorbije jaren kan je als video terugvinden op het grow platform.
-
-{% embed url="https://grow.nxtmedia.technology/video/2021-performance-marketing-ecommerce" %}
-
-{% embed url="https://grow.nxtmedia.technology/video/2020-performance-marketing-ecommerce" %}
-
 
 
